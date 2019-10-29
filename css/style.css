@@ -1,0 +1,70 @@
+img {
+  max-width: 100%;
+  display: block;
+  height: 250px;
+  margin: 0 auto;
+}
+
+#img-div {
+  background: white;
+  padding: 10px;
+  margin: 0;
+}
+
+body
+{
+ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #333;
+  margin: 0;
+}
+
+
+#main {
+  margin: 30px 20px;
+  padding: 15px;
+  border-radius: 45px;
+  background: #000;
+}
+
+#title{
+  font-family: 'Permanent Marker', cursive;
+  color:white;
+}
+#para{
+font-family: 'Kaushan Script', cursive;
+color:white;
+}
+
+#img-caption{
+  color:black;
+  font-family: 'Permanent Marker', cursive;
+font-family: 'Kaushan Script', cursive;
+}
+
+
+@font-face
+{
+    font-family: myTamilFont;
+    src: url(tamil_font.ttf);
+}
+ 
+#para2
+{
+    font-family: myTamilFont;
+    padding:10px 10px 10px 10px
+    color:"green"
+}
+
+#quotes{
+  color:white;
+}
+
+#tribute-info
+{
+  color:white;
+ /* font-family:"'Cookie', cursive";*/
+  font-family: 'Sacramento', cursive;
+}
